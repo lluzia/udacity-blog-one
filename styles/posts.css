@@ -1,0 +1,57 @@
+p h2 h3 h4 {
+  margin: 10px;
+  padding: 20px;
+  width: 90%;
+}
+.article-text {
+  color: #616161;
+  font-size: 16px;
+  margin: 20px;
+  padding: 20px;
+  text-justify: auto;
+  width: 90%;
+}
+
+.article-quote {
+  font-style: italic;
+  margin: 10px;
+  padding: 20px;
+  color: #616161;
+  font-size: 16px;
+  padding: 10px;
+  text-align: justify;
+  text-justify: auto;
+  width: 90%;
+}
+ /* aside style for posts */
+#aside-post {
+  width: 20%;
+  padding: 10px 20px 10px 15px;
+  margin-left: 20px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+/* previous and next links style */
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+
+}
+
+a:hover {
+  opacity: 0.8
+  background-color: #A76D1D;
+}
+
+.previous {
+  background-color: #F1F1F1;
+  color: #616161;
+}
+
+.next {
+  background-color: #F1F1F1;
+  color: #616161;
+}
