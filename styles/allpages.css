@@ -5,6 +5,10 @@ p {
   text-align: justify;
 }
 
+img {
+  width: 100%;
+}
+
 figurecaption {
   color: #616161;
   font-style: italic;
@@ -30,5 +34,11 @@ figurecaption {
   opacity: 0.8;
 }
 
+.subscribed  {
+  text-align: center !important;
+}
 
+#text-footer {
+  text-align: center;
+}
 
